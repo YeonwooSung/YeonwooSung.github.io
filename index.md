@@ -1,32 +1,28 @@
-## Welcome to GitHub Pages
+## Yeonwoo Sung's Personal Web page
 
-You can use the [editor on GitHub](https://github.com/YeonwooSung/YeonwooSung.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website contains my tech-blogs, some web projects that I have contributed, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I am a final year undergraduate student studying computer science at the University of St Andrews.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a bilingual who communicate by Korean and English.
 
-```markdown
-Syntax highlighted code block
+I am profficient with C/C++, Java, Python, and JavaScript. Moreover, I learned Haskell and Kotlin a bit.
 
-# Header 1
-## Header 2
-### Header 3
+In my spare time, I generally do some coding for my side-projects, or read various types of books.
 
-- Bulleted
-- List
+### Tech blog
 
-1. Numbered
-2. List
+[Link1](url)
 
-**Bold** and _Italic_ and `Code` text
+[Link2](url)
 
-[Link](url) and ![Image](src)
-```
+[Link3](url)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Projects
+
+??
 
 ### Jekyll Themes
 
