@@ -14,15 +14,11 @@ In my spare time, I generally do some coding for my side-projects, or read vario
 
 ### Tech blog
 
-[Link1](url)
-
-[Link2](url)
-
-[Link3](url)
+[Link1](https://neos518.tistory.com/)
 
 ### Projects
 
-??
+[CloudN](projects/cloudn/index.html)
 
 ### Jekyll Themes
 
