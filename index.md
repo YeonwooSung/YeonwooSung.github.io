@@ -20,6 +20,8 @@ In my spare time, I generally do some coding for my side-projects, or read vario
 
 [CloudN](projects/cloudn/index.html)
 
+[Plotting](projects/plotting/index.html)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YeonwooSung/YeonwooSung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
