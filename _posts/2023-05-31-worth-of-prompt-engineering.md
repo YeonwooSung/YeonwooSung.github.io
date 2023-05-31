@@ -2,7 +2,7 @@
 title: Worth of Prompt Engineering
 author: Yeonwoo Sung
 date: 2023-05-31 23:10:00 +0900
-categories: [ML/DL, transformers, attention, self-attention, nlp]
+categories: [ML/DL, LLM, prompt, prompt-engineering]
 tags: [ml, dl, llm, prompt-engineering, prompts]
 pin: false
 math: true
