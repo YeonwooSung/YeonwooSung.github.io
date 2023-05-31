@@ -4,7 +4,7 @@ author: Yeonwoo Sung
 date: 2023-05-31 20:50:00 +0900
 categories: [Blogging, Demo]
 tags: [typography]
-pin: true
+pin: false
 math: true
 mermaid: true
 # image:
