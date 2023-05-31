@@ -15,6 +15,6 @@ $ bundle lock --add-platform x86_64-linux
 
 ## ToDo
 
-[ ] [Ads support](https://github.com/cotes2020/jekyll-theme-chirpy/issues/669)
-    [ ] Make template for ads
-    [ ] Connect template with adsense
+- [v] [Ads support](https://github.com/cotes2020/jekyll-theme-chirpy/issues/669)
+    - [v] Make template for ads
+    - [v] Connect template with adsense
