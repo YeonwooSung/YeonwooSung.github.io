@@ -2,8 +2,8 @@
 title: Basic Server Performance Measurement
 author: Yeonwoo Sung
 date: 2023-06-01 20:12:00 +0900
-categories: [ML/DL, LLM, prompt, prompt-engineering]
-tags: [ml, dl, llm, prompt-engineering, prompts]
+categories: [DevOps]
+tags: [devops, server, perf-measurement]
 pin: false
 math: true
 mermaid: true
