@@ -73,6 +73,12 @@
     <link rel="stylesheet" href="{{ site.data.origin[type].webfonts | relative_url }}">
   {% endif %}
 
+
+  <!-- Ads Snippet for Google Adsense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167832550256546"
+    crossorigin="anonymous"></script>
+
+
   <!-- GA -->
   {% if jekyll.environment == 'production' and site.google_analytics.id != empty and site.google_analytics.id %}
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
@@ -116,33 +122,32 @@
     {% include mode-toggle.html %}
   {% endunless %}
 
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167832550256546"
-     crossorigin="anonymous"></script>
-
   <!-- Adsense 멀티플렉스 광고 (230531) -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167832550256546"
-     crossorigin="anonymous"></script>
-  <ins class="adsbygoogle"
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167832550256546"
+     crossorigin="anonymous"></script> -->
+  <!-- <ins class="adsbygoogle"
       style="display:block"
       data-ad-format="autorelaxed"
       data-ad-client="ca-pub-9167832550256546"
-      data-ad-slot="6037519372"></ins>
+      data-ad-slot="6037519372"></ins> -->
   <!-- <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
   </script> -->
 
   <!-- Adsense 작은 사이즈 광고 (181104) -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9167832550256546"
-  crossorigin="anonymous"></script>
-  <ins class="adsbygoogle"
-  style="display:block; text-align:center;"
-  data-ad-layout="in-article"
-  data-ad-format="fluid"
-  data-ad-client="ca-pub-9167832550256546"
-  data-ad-slot="5053529365"></ins>
+  <!-- <ins class="adsbygoogle"
+    style="display:block; text-align:center;"
+    data-ad-layout="in-article"
+    data-ad-format="fluid"
+    data-ad-client="ca-pub-9167832550256546"
+    data-ad-slot="5053529365">
+  </ins>
   <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-9167832550256546",
+      enable_page_level_ads: true
+    });
+  </script> -->
 
   {% include metadata-hook.html %}
 </head>
