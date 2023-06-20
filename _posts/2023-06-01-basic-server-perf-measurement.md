@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: Basic Server Performance Measurement
 author: Yeonwoo Sung
 date: 2023-06-01 20:12:00 +0900

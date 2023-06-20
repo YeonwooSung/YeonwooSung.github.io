@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: What is Attention mechanism
 author: Yeonwoo Sung
 date: 2023-05-31 21:35:00 +0900

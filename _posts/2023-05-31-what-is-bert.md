@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: What is BERT
 author: Yeonwoo Sung
 date: 2023-05-31 21:40:00 +0900

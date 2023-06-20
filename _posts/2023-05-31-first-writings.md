@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: First Writings
 author: Yeonwoo Sung
 date: 2023-05-31 20:50:00 +0900

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: History of YOLO
 author: Yeonwoo Sung
 date: 2023-05-31 21:17:00 +0900
