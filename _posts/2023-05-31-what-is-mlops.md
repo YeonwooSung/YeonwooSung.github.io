@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What is MLOPs
 author: Yeonwoo Sung
 date: 2023-05-31 21:26:00 +0900

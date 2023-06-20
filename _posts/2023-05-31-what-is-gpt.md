@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What is GPT
 author: Yeonwoo Sung
 date: 2023-05-31 21:50:00 +0900
