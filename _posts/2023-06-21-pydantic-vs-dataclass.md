@@ -3,8 +3,8 @@ layout: mypost
 title: Pydanctic vs Dataclasses
 author: Yeonwoo Sung
 date: 2023-06-21 22:10:00 +0900
-categories: [ML/DL, MLOps, LLM]
-tags: [mlops, devops, llm]
+categories: [Python]
+tags: [python, pydantic, dataclasses]
 pin: false
 math: true
 mermaid: true
