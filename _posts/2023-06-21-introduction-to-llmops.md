@@ -3,7 +3,7 @@ layout: mypost
 title: Introduction to LLMOps
 author: Yeonwoo Sung
 date: 2023-06-21 20:10:00 +0900
-categories: [MLOps, LLM]
+categories: [ML/DL, MLOps, LLM]
 tags: [mlops, devops, llm]
 pin: false
 math: true
