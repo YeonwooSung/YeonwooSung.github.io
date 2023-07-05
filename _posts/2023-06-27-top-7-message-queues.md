@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Top 7 Message Queues
 author: Yeonwoo Sung
 date: 2023-06-27 20:10:00 +0900
