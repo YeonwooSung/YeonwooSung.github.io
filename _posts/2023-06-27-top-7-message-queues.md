@@ -8,6 +8,8 @@ tags: [devops, backend, system-architecture]
 pin: false
 math: true
 mermaid: true
+toc: true
+img_path: /assets/img/system_architecture/message_queue/
 # image:
 #   path: /commons/devices-mockup.png
 #   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
@@ -24,7 +26,7 @@ There are various message queues in the real world, where each has its own pros 
 [Amazon Simple Queue System or SQS](https://aws.amazon.com/ko/sqs/) is a fully managed message queue built for distributed and serverless platforms.
 Out of the box, it allows you to send, store and receive any volume of messages between services. It has a free and paid tier.
 
-![sqs-ex.png](/assets/img/system_architecture/message_queue/sqs-ex.png)
+![sqs-ex.png](sqs-ex.png)
 
 ### Pros of SQS
 
@@ -44,7 +46,7 @@ Out of the box, it allows you to send, store and receive any volume of messages 
 [Apache Kafka](https://kafka.apache.org/) is an open-source, distributed event streaming platform with message communication and storage capabilities.
 Although Kafka is not technically a message queue, it has the functionality of a message queue using a topic partition.
 
-![kafka_ex.png](/assets/img/system_architecture/message_queue/kafka_ex.png)
+![kafka_ex.png](kafka_ex.png)
 
 ### Pros of Kafka
 
@@ -61,7 +63,7 @@ Although Kafka is not technically a message queue, it has the functionality of a
 
 RabbitMQ is an open-source message broker for asynchronous messaging, queueing and delivery acknowledgement. It can be deployed in the cloud or on-premise with Kubernetes, Chef, Docker or Puppet.
 
-![rabbitmq-ex.png](/assets/img/system_architecture/message_queue/rabbitmq-ex.png)
+![rabbitmq-ex.png](rabbitmq-ex.png)
 
 ### Pros of RabbitMQ
 
@@ -79,7 +81,7 @@ RabbitMQ is an open-source message broker for asynchronous messaging, queueing a
 
 [Apache ActiveMQ](https://activemq.apache.org/) is an open-source Java-based message queue that can be accessed by clients written in Javascript, C, C++, Python and .NET. There are two versions of ActiveMQ, the existing “classic” version and the next generation “Artemis” version, which is currently being worked on.
 
-![activemq-ex.png](/assets/img/system_architecture/message_queue/activemq-ex.png)
+![activemq-ex.png](activemq-ex.png)
 
 ### Pros of ActiveMQ
 
@@ -97,7 +99,7 @@ RabbitMQ is an open-source message broker for asynchronous messaging, queueing a
 Cloud Pub/Sub has many of the same advantages and disadvantages as SQS due to also being cloud hosted.
 It has a free and paid tier.
 
-![google-pubsub-ex.png](/assets/img/system_architecture/message_queue/google-pubsub-ex.png)
+![google-pubsub-ex.png](google-pubsub-ex.png)
 
 ### Pros of Google Pub/Sub
 
@@ -115,7 +117,7 @@ It has a free and paid tier.
 
 Microsoft [Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus) is a reliable, fully managed Cloud service for delivering messages via queues or topics. It has a free and paid tier.
 
-![ms_azure_bus_ex.png](/assets/img/system_architecture/message_queue/ms_azure_bus_ex.png)
+![ms_azure_bus_ex.png](ms_azure_bus_ex.png)
 
 ### Pros of Azure Service Bus
 
@@ -131,7 +133,7 @@ Microsoft [Azure Service Bus](https://azure.microsoft.com/en-us/products/service
 
 [Redis](https://redis.com/blog/database-trigger-features/?utm_source=google&utm_medium=cpc&utm_term=redis%20javascript&utm_campaign=redis360-tofu-audiences-emea-19745582853&utm_content=database-trigger-features&gclid=CjwKCAjwkeqkBhAnEiwA5U-uM9fdfV-4tGG4Qh4D7iQqk8BDwD3SZcqE1RYDeo1_DHcMJpNUAPdg3hoCWcUQAvD_BwE) is an open-source in-memory(a DBMS that uses main memory to put it bluntly) data store which can function both as a message broker, a database and cache. From the documentation itself, Redis is known to support different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, hyperlogs, bitmaps and spatial indexes. Redis is fast and light weight and this makes it a personal preference of numerous developers across the globe.
 
-![redis_ex.png](/assets/img/system_architecture/message_queue/redis_ex.png)
+![redis_ex.png](redis_ex.png)
 
 ### Pros of Redis
 
