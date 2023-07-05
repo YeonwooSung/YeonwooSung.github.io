@@ -27,7 +27,7 @@ There are various message queues in the real world, where each has its own pros 
 [Amazon Simple Queue System or SQS](https://aws.amazon.com/ko/sqs/) is a fully managed message queue built for distributed and serverless platforms.
 Out of the box, it allows you to send, store and receive any volume of messages between services. It has a free and paid tier.
 
-![sqs-ex.png](/assets/img/system_architecture/message_queue/sqs-ex.png)
+![sqs-ex.png](/assets/img/system_architecture/message_queue/sqs_ex.png)
 _Amazon Simple Queue System (SQS)_
 
 ### Pros of SQS
@@ -85,7 +85,7 @@ _RabbitMQ_
 
 [Apache ActiveMQ](https://activemq.apache.org/) is an open-source Java-based message queue that can be accessed by clients written in Javascript, C, C++, Python and .NET. There are two versions of ActiveMQ, the existing “classic” version and the next generation “Artemis” version, which is currently being worked on.
 
-![activemq-ex.png](/assets/img/system_architecture/message_queue/activemq-ex.png)
+![activemq_ex.png](/assets/img/system_architecture/message_queue/activemq-ex.png)
 _Apache ActiveMQ_
 
 ### Pros of ActiveMQ
