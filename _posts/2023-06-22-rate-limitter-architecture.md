@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Rate Limiter Architecture
 author: Yeonwoo Sung
 date: 2023-06-22 01:05:00 +0900

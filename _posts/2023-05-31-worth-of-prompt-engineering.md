@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Worth of Prompt Engineering
 author: Yeonwoo Sung
 date: 2023-05-31 23:10:00 +0900

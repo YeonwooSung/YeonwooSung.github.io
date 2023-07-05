@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Pydanctic vs Dataclasses
 author: Yeonwoo Sung
 date: 2023-06-21 22:10:00 +0900

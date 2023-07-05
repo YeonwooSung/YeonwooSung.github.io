@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Introduction to LLMOps
 author: Yeonwoo Sung
 date: 2023-06-21 20:10:00 +0900

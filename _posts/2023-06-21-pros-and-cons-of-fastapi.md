@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Pros and Cons of FastAPI
 author: Yeonwoo Sung
 date: 2023-06-21 20:30:00 +0900

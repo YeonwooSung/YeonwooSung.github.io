@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: OWASP LLM Top 10 list
 author: Yeonwoo Sung
 date: 2023-06-21 22:35:00 +0900

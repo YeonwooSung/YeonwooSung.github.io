@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Retrieval-Augmented vs Fine-tuning for LLMs
 author: Yeonwoo Sung
 date: 2023-06-25 20:30:00 +0900

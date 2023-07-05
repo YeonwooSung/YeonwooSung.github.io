@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Introduciton to Vector DB
 author: Yeonwoo Sung
 date: 2023-06-21 00:35:00 +0900
