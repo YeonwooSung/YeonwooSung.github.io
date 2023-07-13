@@ -85,7 +85,7 @@ _RabbitMQ_
 
 [Apache ActiveMQ](https://activemq.apache.org/) is an open-source Java-based message queue that can be accessed by clients written in Javascript, C, C++, Python and .NET. There are two versions of ActiveMQ, the existing “classic” version and the next generation “Artemis” version, which is currently being worked on.
 
-![activemq_ex.png](/assets/img/system_architecture/message_queue/activemq-ex.png)
+![activemq_ex.png](/assets/img/system_architecture/message_queue/activemq_ex.png)
 _Apache ActiveMQ_
 
 ### Pros of ActiveMQ
