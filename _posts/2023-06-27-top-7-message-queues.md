@@ -41,7 +41,7 @@ _Amazon Simple Queue System (SQS)_
 - It may be difficult to estimate the cost of using SQS as you’re charged for each message based on its size and network bandwidth used.
 - Latency is variable based on the number of messages being sent and received but is generally less than that of self-hosted solutions.
 - The maximum message size is only 256KB.
-- SQS doesn’t support real-time data streaming or parallel processing of messages.
+- SQS doesn’t support real-time data streaming
 
 ## 2. Apache Kafka
 
